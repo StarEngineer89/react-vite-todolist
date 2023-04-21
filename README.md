@@ -1,6 +1,6 @@
 # React Todoist :clipboard:
 
-https://react-vite-todolist.github.io/
+https://starengineer89.github.io/react-vite-todolist/
 
 Task manager built with React, which consumes a [Todoist REST API](https://developer.todoist.com/rest/ "Todoist developer site")
 
