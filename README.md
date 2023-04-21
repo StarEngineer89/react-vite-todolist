@@ -1,6 +1,6 @@
 # React Todoist :clipboard:
 
-https://react-todoist-roan.netlify.app
+https://react-vite-todolist.github.io/
 
 Task manager built with React, which consumes a [Todoist REST API](https://developer.todoist.com/rest/ "Todoist developer site")
 
@@ -29,7 +29,7 @@ Prerequisites npm / yarn
 
 ```bash
 # clone the repository
-git clone https://github.com/roanrobersson/todoist-react
+git clone https://github.com/StarEngineer89/react-vite-todolist.git
 
 # enter the project folder
 cd todoist-react
